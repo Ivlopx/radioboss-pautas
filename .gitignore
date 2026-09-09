@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+build/
+dist/
+*.spec
+.DS_Store
+.env
+.env.*
+
+# Documentos y configuraciones operativas
+PAUTAS RADIO/
+Material Radio/
+*.xlsx
+*.xlsm
+*.xls
+*.pdf
+adscheduler*.ini
+adscheduler*.ini.txt
+*_respaldo_*.ini
+*_respaldo_*.ini.txt
+
+# Audios
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.aac
+*.wma
